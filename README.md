@@ -23,7 +23,7 @@ This project is a **Vision-Language AI assistant** for analyzing traffic or surv
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/llava-vlm-captioner.git
+git clone https://github.com/purushogit/VLM_AGENT.git
 cd llava-vlm-captioner
 pip3 install -r requirements.tyxt
 
