@@ -1,4 +1,4 @@
-# VLM AGENT 
+# VLM AGENT  LLaVA 1.6 Mistral
 
 This project is a **Vision-Language AI assistant** for analyzing traffic or surveillance videos. It extracts frames from a video and uses a quantized 4-bit version of [`llava-hf/llava-v1.6-mistral-7b-hf`](https://huggingface.co/llava-hf/llava-v1.6-mistral-7b-hf) to generate intelligent captions or answers to questions about each frame using RAG and LLM.
 
@@ -42,3 +42,4 @@ python3 pipeline.py
 #### Additional features can be added
 Can make dockerisation
 can generate id for every video uploaded and can store with  key reference value and can do Q and A
+
